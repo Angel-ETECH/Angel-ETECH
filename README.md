@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Angel%20ETECH&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Backend%20%7C%20AI%20Developer&descAlignY=58&descSize=18" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=230&section=header&text=Angel%20Gonzales&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Backend%20%7C%20AI%20Developer&descAlignY=58&descSize=18" width="100%">
 </p>
-
-<h1 align="center">⚡ Angel ETECH ⚡</h1>
 
 <p align="center">
 Desarrollador Frontend & Backend • Machine Learning • Software Developer
