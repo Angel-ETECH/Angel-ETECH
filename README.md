@@ -95,7 +95,7 @@ Desarrollador Frontend & Backend • Machine Learning • Software Developer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
 </p> 
-💼 LinkedIn: Agrega tu LinkedIn aquí  
+💼 LinkedIn: www.linkedin.com/in/angelxc-gonzales  
 ✨ Portfolio: Próximamente
 
 ---
