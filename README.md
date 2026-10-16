@@ -1,117 +1,64 @@
-<p align="center">
-  <img src="./banner-angel-gonzales.png" width="100%" alt="Angel Gonzales — banner anime con estilo neón">
-</p>
+<!-- Perfil visual: editar paneles en assets/*.svg. -->
 
-<h1 align="center">Hola 👋, soy Angel Gonzales</h1>
+<p align="center"><img src="./assets/banner-angel-gonzales.gif" width="100%" alt="Angel Gonzales — banner anime animado en cian y magenta"></p>
 
-<p align="center">
-  <strong>Desarrollador de Software enfocado en aplicaciones web modernas, backend, automatización e Inteligencia Artificial.</strong>
-</p>
+<img src="./assets/01-intro.svg" width="100%" alt="Hola, soy Angel Gonzales. Frontend, Backend y AI Developer.">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Frontend+Developer;Backend+Developer;Laravel+Developer;Python+%26+AI+Enthusiast;Building+Real+World+Projects" width="100%" alt="Frontend Developer · Backend Developer · Laravel Developer · Python y AI Enthusiast">
-</p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=00E4EF&amp;background=050916&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=55&amp;lines=Frontend+%2F+Backend+%2F+AI+Developer;Laravel+%2B+Python+%2B+JavaScript;Building+Real+World+Projects" width="100%" alt="Frontend, Backend y AI Developer — Laravel, Python y JavaScript"></p>
 
----
+<img src="./assets/02-about.svg" width="100%" alt="Sobre mí: desarrollo web, automatización e Inteligencia Artificial.">
 
-## 👨‍💻 Sobre mí
+<img src="./assets/03-focus.svg" width="100%" alt="Enfoque profesional: aplicaciones responsivas, backend e interfaces.">
 
-<img align="right" src="https://raw.githubusercontent.com/DevSouvik/DevSouvik/master/gif3.gif" width="320" alt="Chico programando frente a su computadora">
+<img src="./assets/04-stack.svg" width="100%" alt="Tecnologías: HTML, CSS, JavaScript, PHP, Laravel, Python, Java, MySQL, Flask, TensorFlow, Git, GitHub y VS Code.">
 
-Soy un desarrollador al que le gusta convertir ideas en aplicaciones útiles, con interfaces cuidadas y funcionalidades que resuelvan necesidades reales.
+<img src="./assets/05-learning.svg" width="100%" alt="Aprendiendo Laravel, Python, Inteligencia Artificial y desarrollo backend.">
 
-Me interesa el desarrollo web, los sistemas backend, la automatización y la Inteligencia Artificial. Aprendo construyendo proyectos y mejorándolos paso a paso.
+<img src="./assets/06-projects.svg" width="100%" alt="Proyectos destacados">
 
-- 💻 Desarrollo aplicaciones con **Laravel, PHP, MySQL y JavaScript**.
-- 🛍️ Trabajo en **VendeFácil**, un proyecto de comercio digital.
-- 🌱 Sigo aprendiendo **Laravel, Python e Inteligencia Artificial**.
-- 🎨 Me gusta crear interfaces limpias, modernas y responsivas.
-- 🌐 Puedes ver mis proyectos en mi [portafolio](https://angeldev.infinityfreeapp.com).
+<img src="./assets/project-vendefacil.svg" width="100%" alt="VendeFácil: marketplace con funcionalidades para vendedores y clientes.">
 
-<br clear="both">
+<a href="https://angeldev.infinityfreeapp.com"><img src="./assets/project-portfolio.svg" width="100%" alt="Visitar mi portfolio web"></a>
 
----
+<img src="./assets/project-ai.svg" width="100%" alt="Proyectos con Python, automatización e Inteligencia Artificial.">
 
-## 🚀 Enfoque profesional
+<img src="./assets/07-stats.svg" width="100%" alt="Actividad en GitHub">
 
-- Desarrollo de aplicaciones web modernas y responsivas.
-- Creación de sistemas con Laravel, PHP, MySQL y JavaScript.
-- Implementación de funcionalidades backend, paneles administrativos y flujos de usuario.
-- Exploración de Python, Machine Learning e Inteligencia Artificial.
-- Diseño de interfaces funcionales y visualmente atractivas.
+<img src="./assets/07-streak.svg" width="100%" alt="Constancia y contribuciones — estadísticas con fecha de actualización">
 
----
 
-## 🛠️ Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,java,mysql,flask,tensorflow,git,github,vscode&perline=7" alt="HTML, CSS, JavaScript, PHP, Laravel, Python, Java, MySQL, Flask, TensorFlow, Git, GitHub y VS Code">
-</p>
+<img src="./assets/08-contact.svg" width="100%" alt="Conectemos: GitHub, LinkedIn y portfolio">
 
----
+<a href="https://github.com/Angel-ETECH"><img src="./assets/contact-github.svg" width="100%" alt="Abrir github"></a>
 
-## 📚 Actualmente aprendiendo
+<a href="https://www.linkedin.com/in/angelxc-gonzales"><img src="./assets/contact-linkedin.svg" width="100%" alt="Abrir linkedin"></a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge" alt="Inteligencia Artificial">
-  <img src="https://img.shields.io/badge/Backend_Development-24292F?style=for-the-badge" alt="Desarrollo Backend">
-</p>
+<a href="https://angeldev.infinityfreeapp.com"><img src="./assets/contact-portfolio.svg" width="100%" alt="Abrir portfolio"></a>
 
----
+<img src="./assets/09-footer.svg" width="100%" alt="Turning ideas into real applications — Angel Gonzales">
 
-## 💼 Proyectos destacados
+<details>
+<summary>Leer presentación en texto</summary>
 
-### 🛍️ VendeFácil
+## Angel Gonzales
 
-Marketplace enfocado en comercio digital, experiencia de usuario y gestión de tiendas. Un proyecto en el que desarrollo funcionalidades para vendedores y clientes.
+Desarrollador de software enfocado en aplicaciones web, backend, automatización e Inteligencia Artificial. Me gusta aprender construyendo proyectos y mejorándolos paso a paso.
 
-### 🌐 Portfolio Web
+### Enfoque y tecnologías
 
-Mi sitio personal para presentar proyectos, habilidades técnicas y lo que voy construyendo como desarrollador.
+Desarrollo aplicaciones responsivas, paneles administrativos y flujos de usuario con Laravel, PHP, MySQL y JavaScript. También sigo aprendiendo Python, arquitectura web y Machine Learning.
 
-[Visitar mi portafolio →](https://angeldev.infinityfreeapp.com)
+Herramientas: HTML, CSS, JavaScript, PHP, Laravel, Python, Java, MySQL, Flask, TensorFlow, Git, GitHub y VS Code.
 
-### 🤖 Proyectos con Python e IA
+### Proyectos
 
-Exploración de automatización, Machine Learning y herramientas inteligentes aplicadas a soluciones prácticas.
+- **VendeFácil:** marketplace enfocado en comercio digital, tiendas, vendedores y clientes.
+- **[Portfolio Web](https://angeldev.infinityfreeapp.com):** mis proyectos y habilidades técnicas.
+- **Python e IA:** exploración de automatización y herramientas inteligentes aplicadas a soluciones prácticas.
 
----
+### Contacto
 
-## 📊 GitHub Stats
+[GitHub](https://github.com/Angel-ETECH) · [LinkedIn](https://www.linkedin.com/in/angelxc-gonzales) · [Portfolio](https://angeldev.infinityfreeapp.com)
 
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Angel-ETECH&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Angel-ETECH">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-ETECH&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados en GitHub">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angel-ETECH&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de Angel-ETECH">
-</p>
-
----
-
-## 📬 Contacto
-
-<p align="center">
-  <a href="https://github.com/Angel-ETECH">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/angelxc-gonzales">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://angeldev.infinityfreeapp.com">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <strong>Turning ideas into real applications.</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Banner de cierre">
-</p>
+</details>

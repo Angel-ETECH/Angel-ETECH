@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="PORTAFOLIO">
+    <defs><linearGradient id="edge"><stop stop-color="#00e4ef"/><stop offset=".52" stop-color="#29496d"/><stop offset="1" stop-color="#f12bdc"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#16233a" stroke-width=".5"/></pattern>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050916"/><stop offset="1" stop-color="#080b1d"/></linearGradient></defs>
+    <path d="M28 5H238L250 14H568L581 5H970L994 29V119L971 143H755L743 135H397L385 143H28L6 121V30Z" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+    <path d="M28 5H238L250 14H568L581 5H970L994 29V119L971 143H755L743 135H397L385 143H28L6 121V30Z" fill="url(#grid)" opacity=".5"/>
+    <path d="M17 69V34L34 17H132 M19 80V113L36 130H128" fill="none" stroke="#00e4ef" opacity=".45"/>
+    <path d="M866 17H963L982 36V66 M872 130H965L982 113V86" fill="none" stroke="#f12bdc" opacity=".7"/>
+    <path d="M976 57V78L983 85V105" stroke="#f12bdc" stroke-width="2" fill="none"/>
+    <path d="M24 72L33 63V37L42 28H77L86 37V63L77 72Z" fill="#081329" stroke="#00e4ef"/>
+    <text x="59" y="56" text-anchor="middle" fill="#00e4ef" font-family="Consolas,monospace" font-size="20" font-weight="bold">&gt;_</text>
+    <text x="109" y="55" fill="#f4f5ff" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">PORTAFOLIO</text>
+    <text x="887" y="53" fill="#f12bdc" font-family="Consolas,monospace" font-size="15" font-weight="400">→ /</text>
+    <path d="M110 75H930" stroke="#21314a"/><path d="M110 75H203" stroke="#00e4ef"/><path d="M911 75H950" stroke="#f12bdc"/>
+    <text x="110" y="112" fill="#00e4ef" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">angeldev.infinityfreeapp.com</text><text x="899" y="112" fill="#f12bdc" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="400">↗</text>
+    <path d="M36 135h30m5 0h10m5 0h4" stroke="#00e4ef" stroke-width="2" opacity=".7"/>
+    <path d="M907 134l8 -8m0 8l8 -8m0 8l8 -8m0 8l8 -8m0 8l8 -8m0 8l8 -8m0 8l8 -8" stroke="#f12bdc" stroke-width="3"/>
+    </svg>

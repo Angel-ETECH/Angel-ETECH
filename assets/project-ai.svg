@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="248" viewBox="0 0 1000 248" role="img" aria-label="PYTHON E INTELIGENCIA ARTIFICIAL">
+    <defs><linearGradient id="edge"><stop stop-color="#00e4ef"/><stop offset=".52" stop-color="#29496d"/><stop offset="1" stop-color="#f12bdc"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#16233a" stroke-width=".5"/></pattern>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#050916"/><stop offset="1" stop-color="#080b1d"/></linearGradient></defs>
+    <path d="M28 5H238L250 14H568L581 5H970L994 29V217L971 241H755L743 233H397L385 241H28L6 219V30Z" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+    <path d="M28 5H238L250 14H568L581 5H970L994 29V217L971 241H755L743 233H397L385 241H28L6 219V30Z" fill="url(#grid)" opacity=".5"/>
+    <path d="M17 69V34L34 17H132 M19 178V211L36 228H128" fill="none" stroke="#00e4ef" opacity=".45"/>
+    <path d="M866 17H963L982 36V66 M872 228H965L982 211V184" fill="none" stroke="#f12bdc" opacity=".7"/>
+    <path d="M976 94V128L983 135V173" stroke="#f12bdc" stroke-width="2" fill="none"/>
+    <path d="M24 72L33 63V37L42 28H77L86 37V63L77 72Z" fill="#081329" stroke="#00e4ef"/>
+    <text x="59" y="56" text-anchor="middle" fill="#00e4ef" font-family="Consolas,monospace" font-size="20" font-weight="bold">AI</text>
+    <text x="109" y="55" fill="#f4f5ff" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700">PYTHON E INTELIGENCIA ARTIFICIAL</text>
+    <text x="887" y="53" fill="#f12bdc" font-family="Consolas,monospace" font-size="15" font-weight="400">P3 /</text>
+    <path d="M110 75H930" stroke="#21314a"/><path d="M110 75H203" stroke="#00e4ef"/><path d="M911 75H950" stroke="#f12bdc"/>
+    <text x="110" y="115" fill="#a9b6ce" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Exploración de automatización, Machine Learning y herramientas inteligentes.</text><text x="110" y="147" fill="#a9b6ce" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="400">Aprendizaje aplicado a soluciones prácticas.</text><path d="M118 180H230V206L222 214H110V188Z" fill="#0a1427" stroke="#00e4ef" stroke-opacity=".65"/><text x="124" y="203" fill="#f4f5ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Python</text><path d="M253 180H445V206L437 214H245V188Z" fill="#0a1427" stroke="#f12bdc" stroke-opacity=".65"/><text x="259" y="203" fill="#f4f5ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">Automatización</text><path d="M468 180H535V206L527 214H460V188Z" fill="#0a1427" stroke="#00e4ef" stroke-opacity=".65"/><text x="474" y="203" fill="#f4f5ff" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">IA</text>
+    <path d="M36 233h30m5 0h10m5 0h4" stroke="#00e4ef" stroke-width="2" opacity=".7"/>
+    <path d="M907 232l8 -8m0 8l8 -8m0 8l8 -8m0 8l8 -8m0 8l8 -8m0 8l8 -8m0 8l8 -8" stroke="#f12bdc" stroke-width="3"/>
+    </svg>
