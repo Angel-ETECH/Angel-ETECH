@@ -1,3 +1,35 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Angel%20Gonzales&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Backend%20%7C%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Angel Gonzales — Frontend, Backend y AI Developer">
+</p>
+
+<h1 align="center">Hola 👋, soy Angel Gonzales</h1>
+
+<p align="center">
+  <strong>Desarrollador de Software enfocado en aplicaciones web modernas, backend, automatización e Inteligencia Artificial.</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Frontend+Developer;Backend+Developer;Laravel+Developer;Python+%26+AI+Enthusiast;Building+Real+World+Projects" width="100%" alt="Frontend Developer · Backend Developer · Laravel Developer · Python y AI Enthusiast">
+</p>
+
+---
+
+## 👨‍💻 Sobre mí
+
+<img align="right" src="https://raw.githubusercontent.com/DevSouvik/DevSouvik/master/gif3.gif" width="320" alt="Chico programando frente a su computadora">
+
+Soy un desarrollador al que le gusta convertir ideas en aplicaciones útiles, con interfaces cuidadas y funcionalidades que resuelvan necesidades reales.
+
+Me interesa el desarrollo web, los sistemas backend, la automatización y la Inteligencia Artificial. Aprendo construyendo proyectos y mejorándolos paso a paso.
+
+- 💻 Desarrollo aplicaciones con **Laravel, PHP, MySQL y JavaScript**.
+- 🛍️ Trabajo en **VendeFácil**, un proyecto de comercio digital.
+- 🌱 Sigo aprendiendo **Laravel, Python e Inteligencia Artificial**.
+- 🎨 Me gusta crear interfaces limpias, modernas y responsivas.
+- 🌐 Puedes ver mis proyectos en mi [portafolio](https://angeldev.infinityfreeapp.com).
+
+<br clear="both">
+
 ---
 
 ## 🚀 Enfoque profesional
@@ -82,13 +114,4 @@ Exploración de automatización, Machine Learning y herramientas inteligentes ap
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%" alt="Banner de cierre">
-</p>
----
-
-<p align="center">
-  <strong>Turning ideas into real applications.</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
