@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Angel%20Gonzales&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Backend%20%7C%20AI%20Developer&descAlignY=58&descSize=18" width="100%" alt="Angel Gonzales — Frontend, Backend y AI Developer">
   <img src="./banner-angel-gonzales.png" width="100%" alt="Angel Gonzales — banner anime con estilo neón">
 </p>
 
