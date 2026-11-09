@@ -59,6 +59,6 @@ Herramientas: HTML, CSS, JavaScript, PHP, Laravel, Python, Java, MySQL, Flask, T
 
 ### Contacto
 
-[GitHub](https://github.com/Angel-ETECH) · [LinkedIn](https://www.linkedin.com/in/angelxc-gonzales) · [Portfolio](https://angeldev.infinityfreeapp.com)
+[GitHub](https://github.com/Angel-ETECH) · [LinkedIn](https://www.linkedin.com/in/angelxc-gonzales) · [Portfolio](https://portafolio-web-angel-vert.vercel.app/)
 
 </details>
