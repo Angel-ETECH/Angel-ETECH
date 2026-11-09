@@ -54,7 +54,7 @@ Herramientas: HTML, CSS, JavaScript, PHP, Laravel, Python, Java, MySQL, Flask, T
 ### Proyectos
 
 - **VendeFácil:** marketplace enfocado en comercio digital, tiendas, vendedores y clientes.
-- **[Portfolio Web](https://angeldev.infinityfreeapp.com):** mis proyectos y habilidades técnicas.
+- **[Portfolio Web](https://portafolio-web-angel-vert.vercel.app/):** mis proyectos y habilidades técnicas.
 - **Python e IA:** exploración de automatización y herramientas inteligentes aplicadas a soluciones prácticas.
 
 ### Contacto
