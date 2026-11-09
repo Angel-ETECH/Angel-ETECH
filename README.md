@@ -18,7 +18,7 @@
 
 <img src="./assets/project-vendefacil.svg" width="100%" alt="VendeFácil: marketplace con funcionalidades para vendedores y clientes.">
 
-<a href="https://angeldev.infinityfreeapp.com"><img src="./assets/project-portfolio.svg" width="100%" alt="Visitar mi portfolio web"></a>
+<a href="https://portafolio-web-angel-vert.vercel.app/"><img src="./assets/project-portfolio.svg" width="100%" alt="Visitar mi portfolio web"></a>
 
 <img src="./assets/project-ai.svg" width="100%" alt="Proyectos con Python, automatización e Inteligencia Artificial.">
 
@@ -34,7 +34,7 @@
 
 <a href="https://www.linkedin.com/in/angelxc-gonzales"><img src="./assets/contact-linkedin.svg" width="100%" alt="Abrir linkedin"></a>
 
-<a href="https://angeldev.infinityfreeapp.com"><img src="./assets/contact-portfolio.svg" width="100%" alt="Abrir portfolio"></a>
+<a href="https://portafolio-web-angel-vert.vercel.app/"><img src="./assets/contact-portfolio.svg" width="100%" alt="Abrir portfolio"></a>
 
 <img src="./assets/09-footer.svg" width="100%" alt="Turning ideas into real applications — Angel Gonzales">
 
